@@ -42,8 +42,8 @@ public class Main {
                         "555-3333"
                 );
 
-        System.out.println("===== CREATE =====");
 
+        System.out.println("===== CREATE =====");
         mysql.createCustomer(customer1);
         mysql.createCustomer(customer2);
         mysql.createCustomer(customer3);

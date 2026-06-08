@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa444a5-36cc-46b0-b743-f3b858553a66" name="Changes" comment="true first commit">
-      <change afterPath="$PROJECT_DIR$/src/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestMongo.java" afterDir="false" />
+    <list default="true" id="caa444a5-36cc-46b0-b743-f3b858553a66" name="Changes" comment="secong commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseConnecttion.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MongoCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MongoCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MySQLCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySQLCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780905179521</updated>
-      <workItem from="1780905180661" duration="3234000" />
+      <workItem from="1780905180661" duration="5316000" />
     </task>
     <task id="LOCAL-00001" summary="true first commit">
       <option name="closed" value="true" />
@@ -106,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780905338669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="secong commit">
+      <option name="closed" value="true" />
+      <created>1780937018645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780937018645</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,21 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="true first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="true first commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Customer.java</url>
-          <line>51</line>
-          <properties class="Customer" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="secong commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="secong commit" />
   </component>
 </project>
